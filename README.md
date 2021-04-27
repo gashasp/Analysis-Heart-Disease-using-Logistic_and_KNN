@@ -2,7 +2,7 @@
 Make logistic regresion and KNN to predict patient Heart Disease
 
 ## --Raw Data--
-Kaggle : https://www.kaggle.com/greenwing1985/housepricing
+Kaggle : https://www.kaggle.com/ronitf/heart-disease-uci
 <img src="https://github.com/gashasp/Analysis-Heart-Disease-using-Logistic_and_KNN/blob/main/Capture.JPG">
 
 ## --Result--
