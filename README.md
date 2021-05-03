@@ -7,4 +7,4 @@ Kaggle : https://www.kaggle.com/ronitf/heart-disease-uci
 
 ## --Result--
 You can also see on my RPubs : https://rpubs.com/gashasp/logistic-knn-heartdisease
-<img src="https://github.com/gashasp/Analysis-Heart-Disease-using-Logistic_and_KNN/blob/main/Capturee.JPG">
+<img src="https://github.com/gashasp/Analysis-Heart-Disease-using-Logistic_and_KNN/blob/main/Captureee.JPG">
